@@ -1,0 +1,1 @@
+This git page just serves as a plae to make sure that everyone working on this project is being updated so we can all be on the same page. If you make any changes to the HTML, just make sure that it is updated here. 
